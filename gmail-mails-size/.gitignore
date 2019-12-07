@@ -1,0 +1,10 @@
+credentials.json
+token*
+temp-files
+*.zip
+log*
+token*
+*token.pickle
+*.db
+*.log
+/attachments
